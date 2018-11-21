@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/opencvForAndroid.dir/demo.cpp.o  -o opencvForAndroid -rdynamic ${LIBRARY_DEPS} 

@@ -1,0 +1,1 @@
+/usr/bin/c++      "CMakeFiles/\${PROJECT_NAME}.dir/demo.cpp.o"  -o "\${PROJECT_NAME}" -rdynamic ${LIBRARY_DEPS} 

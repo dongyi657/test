@@ -1,0 +1,3 @@
+/home/dongyi/workspace/opencvtest/CMakeFiles/edit_cache.dir
+/home/dongyi/workspace/opencvtest/CMakeFiles/rebuild_cache.dir
+/home/dongyi/workspace/opencvtest/CMakeFiles/opencv.dir
